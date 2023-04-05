@@ -11,5 +11,5 @@
 * Soren Lauesen User Interface Design Software Engineering Perspective (2005)
 * Pattern Oriented Software Architecture For Dummies
 * Pattern Oriented Software Architecture Volume 1 - 5
-* Object Oriented Framework Development
-* Object Oriented Application Framework
+* Object Oriented Framework Development (Lectura adicional opcional)
+* Object Oriented Application Framework (Lectura adicional opcional)
